@@ -1,0 +1,48 @@
+##¿los métodos getter están directamente relacionados con la instanciación? {F}
+##¿cuál es la diferencia ente instancia y encapsulamiento?
+{
+~La instanciación es la creación de un objeto y el encapsulamiento es la creación de un constructor
+~La instanciación es la inicialización de un atributo y el encapsulamiento es el nivel de acceso de una variable
+=La instanciación es la inicialización de un objeto y el encapsulamiento es la creación de atributos y métodos de una clase restringiendo el acceso a algunos de estos.
+~La instanciación es la creación de un objeto y el encapsulamiento es la creación de un destructor
+}
+##¿La función JFrame cuenta como un método estático?{v}
+##¿qué es un método estático y un método dinámico?
+{
+= En el método estático no se admite ninguna variación, mientras que en el dinámico se permite hacer variaciones bajo condiciones controladas.
+~En el método estático se permite hacer variaciones bajo condiciones controladas, mientras que en el dinámico no se admite ninguna variación
+~Las dos son correctas
+~Ninguna de las anteriores
+}
+##¿cuántos niveles de acceso existen para una variable?
+{
+~Las variables no tienen niveles de acceso
+~Público y privado
+= Público, privado y protegido. 
+~Todas las anteriores
+}
+##¿cuál es la diferencia entre variables int, short Int, long Int?
+{
+~El tipo de números que almacena
+= La cantidad de bytes que ocupan.
+~El nombre
+~a y b
+}
+##¿existen clases estáticas? {f}
+##¿Qué es una clase sea "abstracta"?
+{
+= Que la clase no puede ser utilizada directamente para crear objetos, y puede contener métodos abstractos que deben ser implementados por las clases derivadas.
+~Que la clase no puede ser heredada por otras clases
+~Que la clase solo puede contener métodos estátios
+~Que la clase no puede tener métodos o atributos
+}
+
+##¿Cuál es la definición que mejor describe el concepto de encapsulamiento en la programación orientada a objetos?
+{
+~Permite que una clase herede características de otra clase.
+= Permite ocultar los detalles internos de un objeto y exponer solo lo necesario
+~Permite que una clase defina métodos estáticos que no requieren una instancia de la clase
+~Permite la creación de nuevas instancias de una clase a partir de una clase base
+}
+##Una clase abstracta puede ser instanciada directamente para crear objetos. {F}
+
