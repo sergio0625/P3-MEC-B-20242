@@ -1,0 +1,29 @@
+
+package com.mycompany.pg1;
+public class Pg1 {
+    /*crear una clase llamada fracción con atributos correspondientes a numerador y denominador aplicar
+    encapsulamiento y los metodos get y set adecuados para manejar elementos de esa clase */
+    public static void main(String[] args) {
+        
+    }        
+}
+class fraccion {
+    private
+    double numerador;
+    double denominador;       
+    public 
+    void fraccion(double _numerador, double _denominador){
+        numerador= _numerador;
+        denominador= _denominador;
+    }
+    void Numerador(double numerador){
+        
+    }
+    
+            
+    
+}
+    
+    
+    
+         
