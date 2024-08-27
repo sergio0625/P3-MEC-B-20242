@@ -1,0 +1,30 @@
+
+import java.util.Scanner;
+
+
+public class Pg1 {    
+/*con la misma clase crear un metodo puro que me permita sumar 2 fraccione s y que me devielba dsu resultado */
+    public static void main(String[] args) {
+        System.out.println("Hello World!");
+    }
+}
+class fraccion {
+    private 
+    double numerador;
+    double denominador;
+    public void fraccion(double _numerador, double _denominador){
+        numerador= _numerador;
+        denominador= _denominador;
+    }
+    public void fraccion(){
+        //vairables
+        Scanner leer;
+        double fraccion_1;
+        double fraccion_2;
+        //lectura de datos
+        leer= new Scanner(fraccion_1);
+        leer= new Scanner(fraccion_2);        
+        double resultado = fraccion_1 + fraccion_2;
+        System.out.println("el resultado es =" + resultado);
+    }        
+}
