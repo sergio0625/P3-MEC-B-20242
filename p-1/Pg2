@@ -1,0 +1,19 @@
+
+public class Pg1 {
+
+    public static void main(String[] args) {
+        System.out.println("Hello World!");
+    }
+}
+class fraccion {
+    private 
+    double numerador;
+    double denominador;
+    public void fraccion(double _numerador, double _denominador){
+        numerador= _numerador;
+        denominador= _denominador;
+    }
+    public void fraccion(){
+        
+    }
+}
